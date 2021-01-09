@@ -1,2 +1,2 @@
 # COVID-19
-API COVID-19 Pakistan
+API COVID-19 in Qatar
